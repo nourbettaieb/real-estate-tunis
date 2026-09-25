@@ -1,0 +1,171 @@
+id,title,price,price_per_m2,location,district,area,bedrooms,property_type,condition,has_parking,has_garden,date_listed,date_scraped,days_listed,price_category,quality_score,features_score,value_score,market_type
+3,Villa 3P 319m² - Mahdia,871935,2733.34,Mahdia - Tunisia,Mahdia,319,3,Villa,New,True,True,2026-09-08,2026-09-19,17,Ultra-Luxury,5,2,18.0,Coastal
+4,Duplex 4P 93m² - Ben Arous,59841,643.45,Ben Arous - Tunisia,Ben Arous,93,4,Duplex,Good,True,False,2026-09-15,2026-09-19,10,Budget,3,1,82.0,Rural
+5,Villa 6P 184m² - Kasserine,272586,1481.45,Kasserine - Tunisia,Kasserine,184,6,Villa,Good,True,False,2026-08-22,2026-09-19,34,Luxury,3,1,60.0,Rural
+6,Duplex 3P 93m² - Gafsa,45887,493.41,Gafsa - Tunisia,Gafsa,93,3,Duplex,Good,False,False,2026-09-05,2026-09-19,20,Budget,3,0,91.0,Rural
+8,Apartment 3P 102m² - Tunis Centre,239360,2346.67,Tunis Centre - Tunisia,Tunis Centre,102,3,Apartment,Good,False,False,2026-08-16,2026-09-19,40,Premium,3,0,7.0,Urban
+9,Duplex 3P 91m² - Sousse Centre,178894,1965.87,Sousse Centre - Tunisia,Sousse Centre,91,3,Duplex,Excellent,True,False,2026-07-25,2026-09-19,62,Premium,4,1,32.0,Urban
+11,Apartment 1P 163m² - El Kef,127156,780.1,El Kef - Tunisia,El Kef,163,1,Apartment,Good,True,False,2026-07-29,2026-09-19,58,Standard,3,1,79.0,Rural
+12,Duplex 2P 150m² - Ben Arous,114858,765.72,Ben Arous - Tunisia,Ben Arous,150,2,Duplex,Good,True,False,2026-06-25,2026-09-19,92,Standard,3,1,59.0,Rural
+13,Apartment 3P 69m² - Kasserine,37488,543.3,Kasserine - Tunisia,Kasserine,69,3,Apartment,Excellent,True,False,2026-08-24,2026-09-19,32,Budget,4,1,91.0,Rural
+14,Villa 4P 286m² - Sfax Centre,825904,2887.78,Sfax Centre - Tunisia,Sfax Centre,286,4,Villa,Good,True,True,2026-09-16,2026-09-19,9,Ultra-Luxury,3,2,13.0,Urban
+15,Apartment 1P 91m² - Mahdia,181886,1998.75,Mahdia - Tunisia,Mahdia,91,1,Apartment,New,True,False,2026-09-11,2026-09-19,14,Premium,5,1,18.0,Coastal
+16,Apartment 1P 168m² - Rades,165337,984.15,Rades - Tunisia,Rades,168,1,Apartment,Good,True,False,2026-09-13,2026-09-19,12,Premium,3,1,62.0,Rural
+17,Apartment 2P 77m² - Kairouan,95069,1234.66,Kairouan - Tunisia,Kairouan,77,2,Apartment,Good,True,False,2026-09-18,2026-09-19,7,Standard,3,1,49.0,Rural
+18,Apartment 2P 129m² - Jendouba,144194,1117.78,Jendouba - Tunisia,Jendouba,129,2,Apartment,Good,True,False,2026-09-12,2026-09-19,13,Standard,3,1,58.0,Rural
+19,Apartment 1P 81m² - Hammamet,182595,2254.26,Hammamet - Tunisia,Hammamet,81,1,Apartment,Good,False,False,2026-08-28,2026-09-19,28,Premium,3,0,10.0,Coastal
+20,Apartment 3P 87m² - Nabeul,193618,2225.49,Nabeul - Tunisia,Nabeul,87,3,Apartment,New,True,False,2026-09-18,2026-09-19,7,Premium,5,1,12.0,Coastal
+22,Apartment 1P 107m² - Nabeul,153538,1434.93,Nabeul - Tunisia,Nabeul,107,1,Apartment,Excellent,False,False,2026-08-14,2026-09-19,42,Premium,4,0,37.0,Coastal
+23,Apartment 2P 154m² - Jendouba,169410,1100.06,Jendouba - Tunisia,Jendouba,154,2,Apartment,Excellent,True,False,2026-09-16,2026-09-19,9,Premium,4,1,59.0,Rural
+24,Villa 4P 466m² - Tunis Centre,893231,1916.8,Tunis Centre - Tunisia,Tunis Centre,466,4,Villa,Fair,False,False,2026-09-01,2026-09-19,24,Ultra-Luxury,2,0,44.0,Urban
+26,Apartment 2P 64m² - Ariana,72168,1127.62,Ariana - Tunisia,Ariana,64,2,Apartment,Fair,True,False,2026-08-26,2026-09-19,30,Budget,2,1,57.0,Rural
+27,Apartment 2P 169m² - La Marsa,314177,1859.04,La Marsa - Tunisia,La Marsa,169,2,Apartment,Fair,False,False,2026-09-17,2026-09-19,8,Luxury,2,0,22.0,Coastal
+29,Apartment 2P 125m² - La Marsa,215071,1720.57,La Marsa - Tunisia,La Marsa,125,2,Apartment,Excellent,True,False,2026-09-13,2026-09-19,12,Premium,4,1,29.0,Coastal
+31,Villa 3P 457m² - El Kef,515857,1128.79,El Kef - Tunisia,El Kef,457,3,Villa,Good,True,True,2026-08-23,2026-09-19,33,Ultra-Luxury,3,2,69.0,Rural
+32,Apartment 2P 40m² - Tunis Centre,64789,1619.72,Tunis Centre - Tunisia,Tunis Centre,40,2,Apartment,Excellent,True,False,2026-09-18,2026-09-19,7,Budget,4,1,31.0,Urban
+33,Villa 4P 341m² - Jendouba,190037,557.29,Jendouba - Tunisia,Jendouba,341,4,Villa,New,True,True,2026-09-14,2026-09-19,11,Premium,5,2,93.0,Rural
+34,Apartment 2P 124m² - El Kef,151336,1220.45,El Kef - Tunisia,El Kef,124,2,Apartment,Good,True,False,2026-09-17,2026-09-19,8,Premium,3,1,50.0,Rural
+35,Apartment 2P 177m² - La Marsa,420039,2373.1,La Marsa - Tunisia,La Marsa,177,2,Apartment,Good,True,False,2026-09-17,2026-09-19,8,Luxury,3,1,5.0,Coastal
+36,Apartment 1P 163m² - Kasserine,143120,878.04,Kasserine - Tunisia,Kasserine,163,1,Apartment,Fair,False,False,2026-08-20,2026-09-19,36,Standard,2,0,72.0,Rural
+37,Apartment 1P 51m² - Kasserine,31545,618.53,Kasserine - Tunisia,Kasserine,51,1,Apartment,Good,True,False,2026-09-11,2026-09-19,14,Budget,3,1,87.0,Rural
+38,Villa 5P 366m² - Monastir,966188,2639.86,Monastir - Tunisia,Monastir,366,5,Villa,Good,True,True,2026-09-18,2026-09-19,7,Ultra-Luxury,3,2,22.0,Coastal
+39,Apartment 2P 135m² - Ben Arous,183939,1362.51,Ben Arous - Tunisia,Ben Arous,135,2,Apartment,Good,True,False,2026-09-18,2026-09-19,7,Premium,3,1,41.0,Rural
+40,Duplex 2P 179m² - Bizerte,391304,2186.06,Bizerte - Tunisia,Bizerte,179,2,Duplex,Fair,False,False,2026-09-15,2026-09-19,10,Luxury,2,0,14.0,Coastal
+41,Apartment 1P 108m² - El Kef,134936,1249.41,El Kef - Tunisia,El Kef,108,1,Apartment,Fair,False,False,2026-07-07,2026-09-19,80,Standard,2,0,47.0,Rural
+42,Villa 5P 282m² - Djerba,566624,2009.3,Djerba - Tunisia,Djerba,282,5,Villa,Excellent,False,True,2026-08-12,2026-09-19,44,Ultra-Luxury,4,1,40.0,Coastal
+43,Apartment 3P 176m² - Sousse Centre,248311,1410.86,Sousse Centre - Tunisia,Sousse Centre,176,3,Apartment,Excellent,False,False,2026-09-12,2026-09-19,13,Premium,4,0,38.0,Urban
+44,House 3P 251m² - Sousse Centre,656200,2614.34,Sousse Centre - Tunisia,Sousse Centre,251,3,House,Fair,True,True,2026-09-15,2026-09-19,10,Ultra-Luxury,2,2,11.0,Urban
+45,Apartment 1P 165m² - Sousse Centre,390421,2366.19,Sousse Centre - Tunisia,Sousse Centre,165,1,Apartment,Good,True,False,2026-08-27,2026-09-19,29,Luxury,3,1,6.0,Urban
+47,Villa 4P 196m² - Ariana,204644,1044.1,Ariana - Tunisia,Ariana,196,4,Villa,New,False,False,2026-06-25,2026-09-19,92,Premium,5,0,76.0,Rural
+49,Apartment 1P 85m² - Mahdia,152448,1793.51,Mahdia - Tunisia,Mahdia,85,1,Apartment,Excellent,True,False,2026-08-26,2026-09-19,30,Premium,4,1,27.0,Coastal
+52,Apartment 1P 149m² - Mahdia,356302,2391.29,Mahdia - Tunisia,Mahdia,149,1,Apartment,Good,True,False,2026-09-18,2026-09-19,7,Luxury,3,1,4.0,Coastal
+53,Apartment 3P 157m² - Hammamet,389384,2480.15,Hammamet - Tunisia,Hammamet,157,3,Apartment,Excellent,True,False,2026-09-16,2026-09-19,9,Luxury,4,1,2.0,Coastal
+54,Apartment 2P 124m² - El Kef,85160,686.77,El Kef - Tunisia,El Kef,124,2,Apartment,Good,True,False,2026-07-18,2026-09-19,69,Standard,3,1,84.0,Rural
+55,Apartment 2P 91m² - El Kef,90597,995.57,El Kef - Tunisia,El Kef,91,2,Apartment,Fair,True,False,2026-07-23,2026-09-19,64,Standard,2,1,61.0,Rural
+57,Apartment 1P 119m² - El Kef,97952,823.13,El Kef - Tunisia,El Kef,119,1,Apartment,Good,False,False,2026-09-16,2026-09-19,9,Standard,3,0,74.0,Rural
+58,Villa 3P 200m² - Monastir,384783,1923.92,Monastir - Tunisia,Monastir,200,3,Villa,Good,True,True,2026-09-14,2026-09-19,11,Luxury,3,2,42.0,Coastal
+59,Apartment 1P 73m² - Kasserine,30000,410.96,Kasserine - Tunisia,Kasserine,73,1,Apartment,Fair,True,False,2026-09-13,2026-09-19,12,Budget,2,1,96.0,Rural
+60,Apartment 3P 65m² - Jendouba,30000,461.54,Jendouba - Tunisia,Jendouba,65,3,Apartment,Good,True,False,2026-07-05,2026-09-19,82,Budget,3,1,94.0,Rural
+62,Apartment 2P 78m² - Rades,35881,460.01,Rades - Tunisia,Rades,78,2,Apartment,Excellent,True,False,2026-09-15,2026-09-19,10,Budget,4,1,95.0,Rural
+63,Apartment 2P 148m² - Ben Arous,191040,1290.81,Ben Arous - Tunisia,Ben Arous,148,2,Apartment,Excellent,True,False,2026-09-03,2026-09-19,22,Premium,4,1,44.0,Rural
+64,Apartment 4P 98m² - La Marsa,204469,2086.42,La Marsa - Tunisia,La Marsa,98,4,Apartment,Excellent,True,False,2026-09-13,2026-09-19,12,Premium,4,1,15.0,Coastal
+65,Apartment 1P 114m² - Jendouba,100890,885.0,Jendouba - Tunisia,Jendouba,114,1,Apartment,Fair,True,False,2026-09-07,2026-09-19,18,Standard,2,1,71.0,Rural
+66,Villa 3P 175m² - El Kef,239336,1367.63,El Kef - Tunisia,El Kef,175,3,Villa,Good,False,True,2026-09-13,2026-09-19,12,Premium,3,1,62.0,Rural
+67,Apartment 3P 129m² - Kasserine,117141,908.07,Kasserine - Tunisia,Kasserine,129,3,Apartment,Excellent,True,False,2026-09-16,2026-09-19,9,Standard,4,1,70.0,Rural
+68,Villa 6P 287m² - Gafsa,218975,762.98,Gafsa - Tunisia,Gafsa,287,6,Villa,Good,True,True,2026-09-08,2026-09-19,17,Premium,3,2,82.0,Rural
+69,Apartment 1P 133m² - Sfax Centre,287900,2164.66,Sfax Centre - Tunisia,Sfax Centre,133,1,Apartment,New,True,False,2026-07-18,2026-09-19,69,Luxury,5,1,13.0,Urban
+71,Apartment 1P 44m² - Ariana,42517,966.3,Ariana - Tunisia,Ariana,44,1,Apartment,Excellent,True,False,2026-08-13,2026-09-19,43,Budget,4,1,65.0,Rural
+72,Villa 4P 212m² - Sfax Centre,620505,2926.91,Sfax Centre - Tunisia,Sfax Centre,212,4,Villa,Good,True,True,2026-08-30,2026-09-19,26,Ultra-Luxury,3,2,11.0,Urban
+73,Duplex 3P 214m² - Sfax Centre,445843,2083.38,Sfax Centre - Tunisia,Sfax Centre,214,3,Duplex,Good,False,False,2026-09-13,2026-09-19,12,Luxury,3,0,23.0,Urban
+75,Apartment 2P 77m² - Gafsa,44954,583.82,Gafsa - Tunisia,Gafsa,77,2,Apartment,Good,True,False,2026-08-29,2026-09-19,27,Budget,3,1,88.0,Rural
+76,Villa 4P 448m² - Ben Arous,104074,232.31,Ben Arous - Tunisia,Ben Arous,448,4,Villa,Fair,True,True,2026-09-07,2026-09-19,18,Standard,2,2,96.0,Rural
+77,Duplex 3P 183m² - Kasserine,180436,985.99,Kasserine - Tunisia,Kasserine,183,3,Duplex,New,False,False,2026-09-09,2026-09-19,16,Premium,5,0,55.0,Rural
+79,Apartment 3P 129m² - Tunis Centre,268757,2083.39,Tunis Centre - Tunisia,Tunis Centre,129,3,Apartment,Excellent,False,False,2026-09-18,2026-09-19,7,Luxury,4,0,16.0,Urban
+80,Apartment 3P 64m² - Nabeul,161382,2521.59,Nabeul - Tunisia,Nabeul,64,3,Apartment,Good,False,False,2026-09-16,2026-09-19,9,Premium,3,0,1.0,Coastal
+81,Apartment 2P 64m² - Kairouan,63893,998.33,Kairouan - Tunisia,Kairouan,64,2,Apartment,Good,True,False,2026-07-24,2026-09-19,63,Budget,3,1,60.0,Rural
+82,House 4P 296m² - Mahdia,740759,2502.56,Mahdia - Tunisia,Mahdia,296,4,House,Good,True,True,2026-09-06,2026-09-19,19,Ultra-Luxury,3,2,33.0,Coastal
+83,Apartment 3P 69m² - Mahdia,83689,1212.88,Mahdia - Tunisia,Mahdia,69,3,Apartment,Good,True,False,2026-08-27,2026-09-19,29,Standard,3,1,51.0,Coastal
+84,Apartment 4P 94m² - Ben Arous,91356,971.87,Ben Arous - Tunisia,Ben Arous,94,4,Apartment,Fair,True,False,2026-09-13,2026-09-19,12,Standard,2,1,64.0,Rural
+85,Duplex 2P 87m² - Monastir,166674,1915.79,Monastir - Tunisia,Monastir,87,2,Duplex,Good,True,False,2026-09-13,2026-09-19,12,Premium,3,1,36.0,Coastal
+86,Villa 3P 413m² - Tunis Centre,935322,2264.7,Tunis Centre - Tunisia,Tunis Centre,413,3,Villa,Excellent,False,False,2026-07-09,2026-09-19,78,Ultra-Luxury,4,0,33.0,Urban
+87,Apartment 2P 46m² - Djerba,84669,1840.63,Djerba - Tunisia,Djerba,46,2,Apartment,Fair,False,False,2026-08-03,2026-09-19,53,Standard,2,0,23.0,Coastal
+88,Apartment 2P 169m² - Kairouan,136666,808.67,Kairouan - Tunisia,Kairouan,169,2,Apartment,Excellent,True,False,2026-09-04,2026-09-19,21,Standard,4,1,77.0,Rural
+89,Apartment 4P 159m² - Kasserine,63263,397.88,Kasserine - Tunisia,Kasserine,159,4,Apartment,Excellent,True,False,2026-08-19,2026-09-19,37,Budget,4,1,97.0,Rural
+90,Apartment 1P 68m² - Kairouan,48375,711.4,Kairouan - Tunisia,Kairouan,68,1,Apartment,Fair,True,False,2026-09-17,2026-09-19,8,Budget,2,1,81.0,Rural
+91,Apartment 2P 56m² - Nabeul,124680,2226.43,Nabeul - Tunisia,Nabeul,56,2,Apartment,Fair,False,False,2026-09-16,2026-09-19,9,Standard,2,0,11.0,Coastal
+92,Apartment 1P 92m² - Hammamet,185324,2014.39,Hammamet - Tunisia,Hammamet,92,1,Apartment,Good,False,False,2026-09-15,2026-09-19,10,Premium,3,0,17.0,Coastal
+93,Apartment 1P 146m² - La Marsa,236243,1618.1,La Marsa - Tunisia,La Marsa,146,1,Apartment,Excellent,False,False,2026-09-09,2026-09-19,16,Premium,4,0,32.0,Coastal
+94,Duplex 3P 134m² - Ariana,133355,995.19,Ariana - Tunisia,Ariana,134,3,Duplex,Excellent,True,False,2026-09-09,2026-09-19,16,Standard,4,1,50.0,Rural
+96,Apartment 1P 78m² - Hammamet,94036,1205.59,Hammamet - Tunisia,Hammamet,78,1,Apartment,Good,True,False,2026-09-16,2026-09-19,9,Standard,3,1,53.0,Coastal
+97,Apartment 1P 88m² - Rades,61969,704.19,Rades - Tunisia,Rades,88,1,Apartment,Good,True,False,2026-08-13,2026-09-19,43,Budget,3,1,82.0,Rural
+98,Villa 6P 347m² - Rades,575433,1658.31,Rades - Tunisia,Rades,347,6,Villa,Good,False,True,2026-07-11,2026-09-19,76,Ultra-Luxury,3,1,51.0,Rural
+99,House 4P 145m² - Sousse Centre,290609,2004.2,Sousse Centre - Tunisia,Sousse Centre,145,4,House,Good,False,True,2026-08-03,2026-09-19,53,Luxury,3,1,44.0,Urban
+100,Villa 4P 163m² - Gafsa,250748,1538.33,Gafsa - Tunisia,Gafsa,163,4,Villa,Good,False,True,2026-09-17,2026-09-19,8,Luxury,3,1,58.0,Rural
+101,Villa 5P 153m² - Kasserine,284127,1857.04,Kasserine - Tunisia,Kasserine,153,5,Villa,New,True,False,2026-08-21,2026-09-19,35,Luxury,5,1,47.0,Rural
+102,Villa 5P 245m² - Bizerte,509315,2078.84,Bizerte - Tunisia,Bizerte,245,5,Villa,Good,True,True,2026-09-13,2026-09-19,12,Ultra-Luxury,3,2,38.0,Coastal
+103,Duplex 3P 200m² - Jendouba,75961,379.8,Jendouba - Tunisia,Jendouba,200,3,Duplex,Excellent,True,False,2026-09-16,2026-09-19,9,Standard,4,1,95.0,Rural
+104,Apartment 1P 76m² - Monastir,71284,937.95,Monastir - Tunisia,Monastir,76,1,Apartment,Excellent,True,False,2026-08-27,2026-09-19,29,Budget,4,1,68.0,Coastal
+106,Duplex 2P 142m² - Hammamet,340912,2400.79,Hammamet - Tunisia,Hammamet,142,2,Duplex,Excellent,True,False,2026-09-16,2026-09-19,9,Luxury,4,1,5.0,Coastal
+107,House 3P 239m² - Mahdia,779069,3259.7,Mahdia - Tunisia,Mahdia,239,3,House,Good,True,True,2026-09-16,2026-09-19,9,Ultra-Luxury,3,2,0.0,Coastal
+108,Duplex 2P 180m² - Nabeul,377929,2099.61,Nabeul - Tunisia,Nabeul,180,2,Duplex,New,True,False,2026-09-15,2026-09-19,10,Luxury,5,1,18.0,Coastal
+109,Duplex 3P 88m² - La Marsa,182553,2074.47,La Marsa - Tunisia,La Marsa,88,3,Duplex,Good,True,False,2026-09-13,2026-09-19,12,Premium,3,1,27.0,Coastal
+110,Apartment 1P 99m² - Monastir,209457,2115.73,Monastir - Tunisia,Monastir,99,1,Apartment,Good,True,False,2026-08-31,2026-09-19,25,Premium,3,1,14.0,Coastal
+111,Apartment 2P 137m² - Ariana,127232,928.7,Ariana - Tunisia,Ariana,137,2,Apartment,Fair,False,False,2026-08-28,2026-09-19,28,Standard,2,0,69.0,Rural
+112,Apartment 3P 46m² - Gafsa,51915,1128.59,Gafsa - Tunisia,Gafsa,46,3,Apartment,Excellent,True,False,2026-09-17,2026-09-19,8,Budget,4,1,56.0,Rural
+113,Apartment 2P 139m² - Sousse Centre,186236,1339.83,Sousse Centre - Tunisia,Sousse Centre,139,2,Apartment,Good,False,False,2026-09-16,2026-09-19,9,Premium,3,0,42.0,Urban
+115,Duplex 4P 101m² - El Kef,75906,751.54,El Kef - Tunisia,El Kef,101,4,Duplex,New,True,False,2026-09-03,2026-09-19,22,Standard,5,1,64.0,Rural
+116,Duplex 3P 108m² - Monastir,254114,2352.91,Monastir - Tunisia,Monastir,108,3,Duplex,Excellent,False,False,2026-09-02,2026-09-19,23,Luxury,4,0,9.0,Coastal
+117,Villa 3P 175m² - Kairouan,231979,1325.59,Kairouan - Tunisia,Kairouan,175,3,Villa,Good,True,True,2026-09-02,2026-09-19,23,Premium,3,2,64.0,Rural
+118,Apartment 4P 120m² - Kairouan,81014,675.12,Kairouan - Tunisia,Kairouan,120,4,Apartment,Excellent,True,False,2026-07-15,2026-09-19,72,Standard,4,1,86.0,Rural
+119,House 3P 120m² - Rades,153710,1280.92,Rades - Tunisia,Rades,120,3,House,Fair,False,True,2026-08-03,2026-09-19,53,Premium,2,1,89.0,Rural
+120,Apartment 3P 132m² - Djerba,306015,2318.3,Djerba - Tunisia,Djerba,132,3,Apartment,Excellent,False,False,2026-08-18,2026-09-19,38,Luxury,4,0,8.0,Coastal
+121,Apartment 2P 54m² - Ariana,30000,555.56,Ariana - Tunisia,Ariana,54,2,Apartment,Excellent,True,False,2026-09-13,2026-09-19,12,Budget,4,1,90.0,Rural
+122,Apartment 2P 111m² - Hammamet,294906,2656.81,Hammamet - Tunisia,Hammamet,111,2,Apartment,Good,True,False,2026-09-13,2026-09-19,12,Luxury,3,1,0.0,Coastal
+123,House 3P 288m² - Tunis Centre,523843,1818.9,Tunis Centre - Tunisia,Tunis Centre,288,3,House,Excellent,True,True,2026-08-28,2026-09-19,28,Ultra-Luxury,4,2,67.0,Urban
+124,Apartment 2P 136m² - Hammamet,212257,1560.71,Hammamet - Tunisia,Hammamet,136,2,Apartment,Excellent,False,False,2026-09-18,2026-09-19,7,Premium,4,0,34.0,Coastal
+125,Apartment 1P 142m² - Sousse Centre,265446,1869.34,Sousse Centre - Tunisia,Sousse Centre,142,1,Apartment,New,False,False,2026-06-21,2026-09-19,96,Luxury,5,0,21.0,Urban
+127,Villa 5P 463m² - Jendouba,390989,844.47,Jendouba - Tunisia,Jendouba,463,5,Villa,Excellent,True,True,2026-09-17,2026-09-19,8,Luxury,4,2,78.0,Rural
+128,Villa 6P 296m² - Bizerte,756021,2554.12,Bizerte - Tunisia,Bizerte,296,6,Villa,Good,True,True,2026-09-14,2026-09-19,11,Ultra-Luxury,3,2,24.0,Coastal
+129,Villa 6P 186m² - Monastir,460791,2477.37,Monastir - Tunisia,Monastir,186,6,Villa,Fair,True,True,2026-08-29,2026-09-19,27,Luxury,2,2,29.0,Coastal
+130,Apartment 3P 147m² - Rades,123071,837.22,Rades - Tunisia,Rades,147,3,Apartment,Good,True,False,2026-09-04,2026-09-19,21,Standard,3,1,73.0,Rural
+131,Duplex 3P 241m² - Ben Arous,148921,617.93,Ben Arous - Tunisia,Ben Arous,241,3,Duplex,Excellent,False,False,2026-09-14,2026-09-19,11,Standard,4,0,86.0,Rural
+132,Apartment 2P 126m² - Hammamet,152071,1206.91,Hammamet - Tunisia,Hammamet,126,2,Apartment,Excellent,True,False,2026-09-07,2026-09-19,18,Premium,4,1,52.0,Coastal
+133,Villa 4P 380m² - El Kef,249953,657.77,El Kef - Tunisia,El Kef,380,4,Villa,Good,True,True,2026-09-08,2026-09-19,17,Premium,3,2,89.0,Rural
+134,House 3P 166m² - Ben Arous,215558,1298.54,Ben Arous - Tunisia,Ben Arous,166,3,House,Excellent,True,True,2026-09-17,2026-09-19,8,Premium,4,2,78.0,Rural
+135,Apartment 1P 40m² - Rades,30000,750.0,Rades - Tunisia,Rades,40,1,Apartment,Fair,True,False,2026-09-15,2026-09-19,10,Budget,2,1,80.0,Rural
+136,Apartment 3P 150m² - Kasserine,47350,315.67,Kasserine - Tunisia,Kasserine,150,3,Apartment,Excellent,False,False,2026-09-17,2026-09-19,8,Budget,4,0,98.0,Rural
+137,Duplex 3P 108m² - Rades,69619,644.62,Rades - Tunisia,Rades,108,3,Duplex,Excellent,True,False,2026-09-16,2026-09-19,9,Budget,4,1,77.0,Rural
+138,House 3P 162m² - Monastir,316149,1951.54,Monastir - Tunisia,Monastir,162,3,House,Good,True,True,2026-08-29,2026-09-19,27,Luxury,3,2,56.0,Coastal
+139,Apartment 2P 163m² - Bizerte,280642,1721.73,Bizerte - Tunisia,Bizerte,163,2,Apartment,Fair,True,False,2026-09-17,2026-09-19,8,Luxury,2,1,28.0,Coastal
+140,Villa 3P 263m² - Kairouan,595938,2265.92,Kairouan - Tunisia,Kairouan,263,3,Villa,Good,False,True,2026-07-25,2026-09-19,62,Ultra-Luxury,3,1,31.0,Rural
+141,Terrain 1627m² à Jendouba,968768,595.43,Jendouba - Tunisia,Jendouba,1627,0,Land,Fair,False,False,2026-09-04,2026-09-19,21,Ultra-Luxury,2,0,96.0,Rural
+146,Apartment 1P 76m² - Rades,53019,697.62,Rades - Tunisia,Rades,76,1,Apartment,Good,False,False,2026-09-13,2026-09-19,12,Budget,3,0,83.0,Rural
+147,Apartment 1P 146m² - Kairouan,138494,948.59,Kairouan - Tunisia,Kairouan,146,1,Apartment,Excellent,True,False,2026-08-23,2026-09-19,33,Standard,4,1,67.0,Rural
+148,Villa 4P 201m² - Djerba,650925,3238.43,Djerba - Tunisia,Djerba,201,4,Villa,Excellent,True,True,2026-09-03,2026-09-19,22,Ultra-Luxury,4,2,9.0,Coastal
+150,Apartment 3P 157m² - Ben Arous,81195,517.17,Ben Arous - Tunisia,Ben Arous,157,3,Apartment,New,True,False,2026-09-17,2026-09-19,8,Standard,5,1,92.0,Rural
+151,Terrain 309m² à Nabeul,559738,1811.45,Nabeul - Tunisia,Nabeul,309,0,Land,Good,True,False,2026-09-08,2026-09-19,17,Ultra-Luxury,3,1,38.0,Coastal
+152,Apartment 1P 128m² - Ben Arous,63134,493.23,Ben Arous - Tunisia,Ben Arous,128,1,Apartment,Excellent,True,False,2026-09-17,2026-09-19,8,Budget,4,1,93.0,Rural
+153,Duplex 3P 198m² - Kasserine,138829,701.16,Kasserine - Tunisia,Kasserine,198,3,Duplex,Excellent,True,False,2026-09-16,2026-09-19,9,Standard,4,1,73.0,Rural
+154,Apartment 2P 46m² - La Marsa,63662,1383.96,La Marsa - Tunisia,La Marsa,46,2,Apartment,Fair,True,False,2026-09-18,2026-09-19,7,Budget,2,1,39.0,Coastal
+155,Apartment 2P 141m² - Djerba,203526,1443.45,Djerba - Tunisia,Djerba,141,2,Apartment,Excellent,True,False,2026-09-05,2026-09-19,20,Premium,4,1,36.0,Coastal
+156,Apartment 3P 88m² - Sousse Centre,158927,1805.99,Sousse Centre - Tunisia,Sousse Centre,88,3,Apartment,Good,True,False,2026-09-14,2026-09-19,11,Premium,3,1,24.0,Urban
+157,Villa 4P 207m² - Ariana,334806,1617.42,Ariana - Tunisia,Ariana,207,4,Villa,Excellent,True,False,2026-09-13,2026-09-19,12,Luxury,4,1,53.0,Rural
+158,Apartment 1P 145m² - El Kef,197686,1363.35,El Kef - Tunisia,El Kef,145,1,Apartment,Good,False,False,2026-09-01,2026-09-19,24,Premium,3,0,40.0,Rural
+159,Apartment 1P 154m² - Bizerte,354138,2299.6,Bizerte - Tunisia,Bizerte,154,1,Apartment,Good,False,False,2026-09-06,2026-09-19,19,Luxury,3,0,9.0,Coastal
+161,Duplex 4P 154m² - La Marsa,385787,2505.11,La Marsa - Tunisia,La Marsa,154,4,Duplex,Fair,True,False,2026-09-13,2026-09-19,12,Luxury,2,1,0.0,Coastal
+162,Apartment 4P 51m² - Rades,34800,682.35,Rades - Tunisia,Rades,51,4,Apartment,Fair,False,False,2026-09-03,2026-09-19,22,Budget,2,0,85.0,Rural
+163,Apartment 1P 53m² - Jendouba,30000,566.04,Jendouba - Tunisia,Jendouba,53,1,Apartment,Fair,True,False,2026-09-15,2026-09-19,10,Budget,2,1,89.0,Rural
+164,Apartment 2P 93m² - La Marsa,159189,1711.71,La Marsa - Tunisia,La Marsa,93,2,Apartment,Excellent,False,False,2026-09-13,2026-09-19,12,Premium,4,0,30.0,Coastal
+165,Apartment 2P 64m² - Ariana,50129,783.27,Ariana - Tunisia,Ariana,64,2,Apartment,Fair,True,False,2026-09-14,2026-09-19,11,Budget,2,1,78.0,Rural
+166,Duplex 3P 99m² - Bizerte,144477,1459.36,Bizerte - Tunisia,Bizerte,99,3,Duplex,Excellent,True,False,2026-09-11,2026-09-19,14,Standard,4,1,41.0,Coastal
+168,Apartment 2P 119m² - Djerba,289519,2432.93,Djerba - Tunisia,Djerba,119,2,Apartment,Excellent,True,False,2026-09-08,2026-09-19,17,Luxury,4,1,3.0,Coastal
+169,Villa 5P 380m² - Ben Arous,399694,1051.83,Ben Arous - Tunisia,Ben Arous,380,5,Villa,Good,True,False,2026-09-16,2026-09-19,9,Luxury,3,1,73.0,Rural
+170,Apartment 1P 169m² - Rades,197536,1168.85,Rades - Tunisia,Rades,169,1,Apartment,Good,True,False,2026-08-21,2026-09-19,35,Premium,3,1,54.0,Rural
+171,Apartment 1P 121m² - Tunis Centre,218118,1802.63,Tunis Centre - Tunisia,Tunis Centre,121,1,Apartment,Excellent,True,False,2026-08-21,2026-09-19,35,Premium,4,1,26.0,Urban
+172,Apartment 2P 121m² - La Marsa,189412,1565.39,La Marsa - Tunisia,La Marsa,121,2,Apartment,Fair,True,False,2026-09-13,2026-09-19,12,Premium,2,1,33.0,Coastal
+173,House 4P 136m² - Mahdia,343528,2525.94,Mahdia - Tunisia,Mahdia,136,4,House,Excellent,False,True,2026-09-14,2026-09-19,11,Luxury,4,1,22.0,Coastal
+174,Apartment 2P 126m² - Hammamet,185866,1475.13,Hammamet - Tunisia,Hammamet,126,2,Apartment,New,True,False,2026-09-08,2026-09-19,17,Premium,5,1,35.0,Coastal
+175,Villa 3P 301m² - Kairouan,31167,103.54,Kairouan - Tunisia,Kairouan,301,3,Villa,Excellent,True,True,2026-08-02,2026-09-19,54,Budget,4,2,98.0,Rural
+176,Villa 3P 157m² - Rades,172561,1099.11,Rades - Tunisia,Rades,157,3,Villa,Excellent,False,True,2026-09-15,2026-09-19,10,Premium,4,1,71.0,Rural
+177,Apartment 1P 88m² - Nabeul,171784,1952.09,Nabeul - Tunisia,Nabeul,88,1,Apartment,Excellent,True,False,2026-09-17,2026-09-19,8,Premium,4,1,19.0,Coastal
+178,Apartment 2P 52m² - Hammamet,97942,1883.5,Hammamet - Tunisia,Hammamet,52,2,Apartment,Excellent,True,False,2026-08-10,2026-09-19,46,Standard,4,1,20.0,Coastal
+179,Apartment 2P 98m² - Monastir,123705,1262.3,Monastir - Tunisia,Monastir,98,2,Apartment,Good,False,False,2026-07-01,2026-09-19,86,Standard,3,0,45.0,Coastal
+180,Villa 5P 371m² - Ariana,423474,1141.44,Ariana - Tunisia,Ariana,371,5,Villa,Good,True,False,2026-08-31,2026-09-19,25,Luxury,3,1,67.0,Rural
+182,Apartment 2P 127m² - Monastir,158493,1247.98,Monastir - Tunisia,Monastir,127,2,Apartment,Good,True,False,2026-08-18,2026-09-19,38,Premium,3,1,48.0,Coastal
+183,Villa 5P 430m² - Sousse Centre,959636,2231.71,Sousse Centre - Tunisia,Sousse Centre,430,5,Villa,Excellent,False,True,2026-09-14,2026-09-19,11,Ultra-Luxury,4,1,36.0,Urban
+184,Villa 5P 159m² - Gafsa,112957,710.42,Gafsa - Tunisia,Gafsa,159,5,Villa,New,False,True,2026-07-04,2026-09-19,83,Standard,5,1,87.0,Rural
+186,Apartment 3P 171m² - Ben Arous,198318,1159.75,Ben Arous - Tunisia,Ben Arous,171,3,Apartment,Excellent,True,False,2026-08-23,2026-09-19,33,Premium,4,1,55.0,Rural
+187,Villa 3P 409m² - Gafsa,250183,611.69,Gafsa - Tunisia,Gafsa,409,3,Villa,Good,True,True,2026-07-15,2026-09-19,72,Luxury,3,2,91.0,Rural
+188,Villa 3P 308m² - La Marsa,496598,1612.33,La Marsa - Tunisia,La Marsa,308,3,Villa,Excellent,False,False,2026-08-31,2026-09-19,25,Luxury,4,0,56.0,Coastal
+189,Villa 3P 322m² - Ben Arous,247661,769.13,Ben Arous - Tunisia,Ben Arous,322,3,Villa,Good,False,True,2026-09-16,2026-09-19,9,Premium,3,1,80.0,Rural
+190,Apartment 2P 43m² - Bizerte,40922,951.67,Bizerte - Tunisia,Bizerte,43,2,Apartment,Good,True,False,2026-06-22,2026-09-19,95,Budget,3,1,66.0,Coastal
+191,Apartment 4P 100m² - Jendouba,97806,978.06,Jendouba - Tunisia,Jendouba,100,4,Apartment,Fair,True,False,2026-06-23,2026-09-19,94,Standard,2,1,63.0,Rural
+192,Duplex 4P 233m² - Gafsa,167519,718.97,Gafsa - Tunisia,Gafsa,233,4,Duplex,Fair,True,False,2026-09-18,2026-09-19,7,Premium,2,1,68.0,Rural
+193,Apartment 1P 43m² - Ben Arous,34774,808.7,Ben Arous - Tunisia,Ben Arous,43,1,Apartment,New,True,False,2026-09-14,2026-09-19,11,Budget,5,1,76.0,Rural
+194,Apartment 1P 53m² - Sousse Centre,69136,1304.45,Sousse Centre - Tunisia,Sousse Centre,53,1,Apartment,Excellent,True,False,2026-08-31,2026-09-19,25,Budget,4,1,43.0,Urban
+195,Apartment 2P 123m² - Ben Arous,30000,243.9,Ben Arous - Tunisia,Ben Arous,123,2,Apartment,Good,True,False,2026-08-29,2026-09-19,27,Budget,3,1,99.0,Rural
+196,Duplex 2P 228m² - El Kef,276307,1211.87,El Kef - Tunisia,El Kef,228,2,Duplex,Fair,True,False,2026-09-18,2026-09-19,7,Luxury,2,1,45.0,Rural
+197,Villa 3P 367m² - Rades,261650,712.94,Rades - Tunisia,Rades,367,3,Villa,Excellent,True,True,2026-09-12,2026-09-19,13,Luxury,4,2,84.0,Rural
+198,Villa 4P 438m² - Sousse Centre,796422,1818.32,Sousse Centre - Tunisia,Sousse Centre,438,4,Villa,Good,False,True,2026-07-11,2026-09-19,76,Ultra-Luxury,3,1,49.0,Urban
+199,Villa 4P 214m² - Djerba,576072,2691.93,Djerba - Tunisia,Djerba,214,4,Villa,New,True,True,2026-09-16,2026-09-19,9,Ultra-Luxury,5,2,20.0,Coastal
+200,Apartment 2P 98m² - Hammamet,122693,1251.97,Hammamet - Tunisia,Hammamet,98,2,Apartment,Good,False,False,2026-09-06,2026-09-19,19,Standard,3,0,46.0,Coastal
