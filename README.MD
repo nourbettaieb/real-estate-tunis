@@ -39,26 +39,21 @@ The main objective is to demonstrate how real-estate data can be transformed int
 ```text
 real-estate-tunis/
 │
-├── notebooks/
-│   ├── 01_data_generation.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   ├── 03_sql_database.ipynb
-│   └── 04_exploratory_analysis.ipynb
+notebooks/
+├── 01_data_generation.ipynb
+├── 02_data_cleaning.ipynb
+├── 03_sql_database.ipynb
+├── 04_exploratory_analysis.ipynb
+└── docs/
+    └── charts
 │
 ├── data/
 │   ├── cleaned_properties.csv
-│   ├── real_estate.db
-│   ├── eda_investment_opportunities.csv
-│   ├── eda_top_expensive.csv
-│   ├── eda_best_price_m2.csv
-│   └── eda_top_value_score.csv
 │
 ├── sql/
 │   ├── schema.sql
 │   └── queries.sql
 │
-├── docs/
-│   └── charts and project documentation
 │
 ├── requirements.txt
 ├── .gitignore
