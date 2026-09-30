@@ -27,3 +27,14 @@ wheels/
 data/raw_properties.csv
 *.xlsx
 *.xls
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated query results
+data/query_*.csv
+
+# Generated EDA results
+data/eda_*.csv
